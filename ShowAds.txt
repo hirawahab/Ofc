@@ -1,1 +1,4 @@
+{
+"com.offcentergames.monster.gorilla.city.smash.bigfoot.gorilla.games":"1.1"
 
+}
