@@ -1,5 +1,5 @@
 {
-"com.offcentergames.monster.gorilla.city.smash.bigfoot.gorilla.games":"4.5",
+"com.offcentergames.monster.gorilla.city.smash.bigfoot.gorilla.games":"4.3",
 "com.test.project":"1.0"
 
 }
